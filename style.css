@@ -1,0 +1,61 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(173, 232, 13);
+}
+#img1
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#img2
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#img3
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#title
+{
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+#sub
+{
+    font-family: 'monospace';
+    font-weight: 900;
+}
+#img1
+{
+    border-radius: 5px;
+    padding: 7.7px;
+    border-color: chartreuse;
+}
+#img2
+{
+    border-radius: 5px;
+    padding: 7.7px;
+    border-color:navy;
+}
+#img3
+{
+    border-radius: 5px;
+    padding: 7.7px;
+    border-color: chartreuse;
+}
+img :hover
+{
+    border-radius: 100px;
+}
